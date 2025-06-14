@@ -25,8 +25,8 @@ scikit-learn>=0.24.0
 
 ```bash
 # Projeyi klonlayın
-git clone https://github.com/burakkurt07/solar_system_planet_recognition.git
-cd solar_system_planet_recognition
+git clone https://github.com/burakkurt07/Solar-System-Planet-Recognition-with-OpenCV---Gunes-Sistemi-Gezegen-Tanima-Opencv.git
+cd Solar-System-Planet-Recognition-with-OpenCV---Gunes-Sistemi-Gezegen-Tanima-Opencv
 
 # Gerekli paketleri yükleyin
 pip install -r requirements.txt

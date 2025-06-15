@@ -1,4 +1,6 @@
-medium: https://medium.com/@burak-kurt/burak-kurt-opencv-ile-güneş-sistemi-gezegen-tanıma-projesi-923618baf70f
+Medium: https://medium.com/@burak-kurt/burak-kurt-opencv-ile-güneş-sistemi-gezegen-tanıma-projesi-923618baf70f
+
+Academia (ileri okuma) : https://www.academia.edu/129965820/Burak_Kurt_G%C3%B6r%C3%BCnt%C3%BC_Tabanl%C4%B1_Gezegen_S%C4%B1n%C4%B1fland%C4%B1rmas%C4%B1nda_OpenCV_ve_Destek_Vekt%C3%B6r_Makineleri_SVM_Kullan%C4%B1m%C4%B1_ile_G%C3%BCne%C5%9F_Sistemi_%C3%9Czerine_Uygulamal%C4%B1_Bilgisayarl%C4%B1_G%C3%B6r%C3%BC
 
 # TR:
 

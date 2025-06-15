@@ -1,3 +1,5 @@
+medium: https://medium.com/@burak-kurt/burak-kurt-opencv-ile-güneş-sistemi-gezegen-tanıma-projesi-923618baf70f
+
 # TR:
 
 # Güneş Sistemi Gezegen Tanıma Projesi
